@@ -1,0 +1,30 @@
+body {
+  background-image: url("./images/bg.jpg");
+}
+.lbl-logo {
+  color: rgba(255, 255, 255, 0.75);
+  font-family: "Special Elite", monospace;
+  font-size: 40px;
+  margin-left: 20px;
+}
+.nav-menu {
+  background-color: rgba(3, 7, 17, 0.3);
+}
+.items-link {
+  color: rgba(255, 255, 255, 0.75);
+  font-family: "Special Elite", monospace;
+  font-size: 1em;
+  margin-left: 100px;
+}
+.items-link:hover {
+  color: rgb(255, 0, 0);
+}
+.lbl_title {
+  color: rgba(255, 255, 255, 0.75);
+  font-family: "Special Elite", monospace;
+  font-size: 4em;
+  margin-left: 20%;
+}
+.empty-class {
+  height: 20%;
+}
