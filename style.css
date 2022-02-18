@@ -28,3 +28,11 @@ body {
 .empty-class {
   height: 20%;
 }
+.titles {
+  margin-top: 10%;
+}
+.lbl_description {
+  color: aliceblue;
+  font-size: 1em;
+  margin-left: 20%;
+}
